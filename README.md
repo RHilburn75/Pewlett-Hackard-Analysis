@@ -7,11 +7,10 @@
 - Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 
-![image](https://user-images.githubusercontent.com/94253815/149639826-b7189b37-27cf-4ae6-938f-edd9ec9927a9.png)
 
 
 
-![image](https://user-images.githubusercontent.com/94253815/149639882-78093816-08db-422e-b0a7-e344dadb2916.png)
+
 
 
 
