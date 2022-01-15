@@ -6,6 +6,10 @@
 ## Results
 - Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
+
+![image](https://user-images.githubusercontent.com/94253815/149639826-b7189b37-27cf-4ae6-938f-edd9ec9927a9.png)
+
+
 Summary
 - Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
