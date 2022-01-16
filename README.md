@@ -34,6 +34,12 @@
    ![image](https://user-images.githubusercontent.com/94253815/149681388-95d9ca45-0b8b-47f0-8e9d-9328029c63ff.png)
 
 4. Employee's available for Mentorship
+    - 1549 rows returned in the query.
+    - The table includes, the employee Number, name (first and last), birthdate, from date, to date and title.
+    - This is the list of employee's who will be eligible for the mentorship program.
+
+
+
   
 
 
