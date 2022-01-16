@@ -31,7 +31,9 @@
     - We can begin focusing on the areas where staff will be retiring. 
    Using this information, we can begin to focus in on the departments that will need to be onboarded and backfilled.  This will also provide the asscociates that will be retiring to mentor the new employees for smooth transition.
    
-   
+   ![image](https://user-images.githubusercontent.com/94253815/149681388-95d9ca45-0b8b-47f0-8e9d-9328029c63ff.png)
+
+4. Employee's available for Mentorship
   
 
 
