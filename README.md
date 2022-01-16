@@ -1,10 +1,17 @@
 # Pewlett-Hackard-Analysis
-
-## Overview of Analysis
-- Explain the purpose of this analysis
-- 
+## Project Overview
+  Bobby and I colaborated on a project analysis for Pewlett - Hakard, using SQL.  Due to the success of both our analysis and colaboration, we have been tasked to 2 more assignments.  With the upcoming "silver tsunami" upont eh company, we have been task to determine the number of retiring employees per title, and to identify employees who will be eligible for the mentorship program.  The company needs the information to proactively plan against the surge of workers that will be retiring in the next few years.  This information will be used to ID open positions, training for associates and to ensure a seemless transition.  In order to do this we'll lay out the following:
+ 
+  1. ID the retiring employees by title
+  2. Determine the number of retiring employees department and title.
+  3. Who will be eligible for the mentorship program.
+  4. Define the number of employees heading towards retirement, who can provide mentoring to our up and coming associates by title and department.
+  5. What roles need to be filled by title and separtment
+ 
 ## Results
-- Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+1. ID the retiring employees by title
+    - The table (listed below) was used in identifying the number of retiring employees.  this list includes, employee number, name (first and last), title, from date, and to date.
+    - 
 
 
 
