@@ -11,7 +11,10 @@
 ## Results
 1. ID the retiring employees by title
     - The table (listed below) was used in identifying the number of retiring employees.  this list includes, employee number, name (first and last), title, from date, and to date.
-    - 
+    - The file was quite extensive but looking at the snapshot of the table, it shows the same person more than once. Multiple lines for the same person reporesents multiple jobs the asscoiate had during their tenure at PH.
+    - This table is the full list of employees that will be retiring soon.
+
+
 
 
 
