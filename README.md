@@ -51,7 +51,7 @@
 
 
 
-Summary
-- Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+# Summary
+With the upcoming "silver tsunami", this information and analysis is vital in planning.  These reports above provide pivotal information regarding who is retiring, what departments they are in, who will be available for a mentorship program and how many need to be rpelaced
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
