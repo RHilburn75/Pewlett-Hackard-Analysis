@@ -14,7 +14,16 @@
     - The file was quite extensive but looking at the snapshot of the table, it shows the same person more than once. Multiple lines for the same person reporesents multiple jobs the asscoiate had during their tenure at PH.
     - This table is the full list of employees that will be retiring soon.
 
+![image](https://user-images.githubusercontent.com/94253815/149680492-e9f539cd-65dc-4fb2-8603-ad68bd347067.png)
 
+2. The list of retiring employees without duplicates
+    - This list deletes the duplicate lines and sorts out similar to the above table.
+    - Once all of associate rows were deleted, it reduced the query from over 133,000 lines to 90,398 rows.
+    - This will give PH a better idea of which employee will be retiring within the next 3 years  and most recent title
+
+
+
+  
 
 
 
