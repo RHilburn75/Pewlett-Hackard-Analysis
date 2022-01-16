@@ -22,7 +22,16 @@
     - This will give PH a better idea of which employee will be retiring within the next 3 years  and most recent title
 
 
+![image](https://user-images.githubusercontent.com/94253815/149681181-bde86d8f-b15f-4d41-b86f-d074e3a18fcd.png)
 
+
+3. Grouped retiring employees by title
+    - This table sums up the number of employees by title
+    - Total rows - 7
+    - We can begin focusing on the areas where staff will be retiring. 
+   Using this information, we can begin to focus in on the departments that will need to be onboarded and backfilled.  This will also provide the asscociates that will be retiring to mentor the new employees for smooth transition.
+   
+   
   
 
 
