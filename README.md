@@ -52,6 +52,4 @@
 
 
 # Summary
-With the upcoming "silver tsunami", this information and analysis is vital in planning.  These reports above provide pivotal information regarding who is retiring, what departments they are in, who will be available for a mentorship program and how many need to be rpelaced
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+With the upcoming "silver tsunami", this information and analysis is vital in planning.  These reports above provide pivotal information regarding who is retiring, what departments they are in, who will be available for a mentorship program and how many need to be replaced. Big companies like PH need to be proactive in making sure there are no gaps between the new coming in and the retiring associates going out.  Although there's a lot of retiring employees, it would benefit Pewlet-Hackard to utilize the time to bring in new talent and give them an opportunity to learn from the soon to be retiring group.  With proper planning, it can be achieved.  There's enough retiring associates to foster learning and growth.  This also gives the next round of leaders in the organization to get promoted and "pass the torch" to those qualified.
